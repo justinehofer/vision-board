@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 style-guide.md
+Screenshot_2020-05-17 Vision Board Project.png
+Screenshot_2020-05-18 Vision Board Project.png
+Screenshot_2020-05-20 Vision Board Project.png
