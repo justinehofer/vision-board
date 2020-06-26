@@ -7,7 +7,7 @@ body {
     height: 850px;
     margin: 50px auto;
     overflow: auto;
-    background: url(file:///Users/mikehofer/Desktop/Justine/Skillcrush/101-vision-board/img/background.png);
+    background: url(../img/background.png);
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
